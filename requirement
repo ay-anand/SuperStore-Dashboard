@@ -1,0 +1,4 @@
+streamlit # For building and hosting the interactive dashboard
+pandas # For data manipulation and grouping.
+plotly # For creating interactive charts and visualizations (includes plotly.express)
+openpyxl # For reading Excel files (.xlsx).
