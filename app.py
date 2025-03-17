@@ -114,7 +114,7 @@ st.markdown(
 @st.cache_data
 def load_data():
     df = pd.read_excel(
-        "C:/Users/ayush/Downloads/ALY 6040/Module 4/Sample - Superstore-1.xlsx",
+        "Sample - Superstore-1.xlsx",
         engine="openpyxl"
     )
     # Convert "Order Date" to datetime if needed
